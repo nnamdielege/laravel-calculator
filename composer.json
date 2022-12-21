@@ -1,0 +1,14 @@
+{
+    "name": "lp/calculator",
+    "description": "This is a demo package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nnamdielege",
+            "email": "nnamdielege@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
